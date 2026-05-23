@@ -1,0 +1,84 @@
+{
+    "bolsas_sangues": [
+        {
+            "id": 1,
+            "tipo_sanguineo": "A+",
+            "quantidade": 9,
+            "volume_ml": 450,
+            "volume_total_ml": 4050,
+            "local_armazenamento": "Hospital Geral Unimed",
+            "status": "disponivel",
+            "temperatura": 2
+        },
+        {
+            "id": 2,
+            "tipo_sanguineo": "A-",
+            "quantidade": 1,
+            "volume_ml": 450,
+            "volume_total_ml": 450,
+            "local_armazenamento": "Bom Jesus",
+            "status": "disponivel",
+            "temperatura": 3
+        },
+        {
+            "id": 3,
+            "tipo_sanguineo": "B+",
+            "quantidade": 5,
+            "volume_ml": 450,
+            "volume_total_ml": 2250,
+            "local_armazenamento": "Hospital Geral Unimed",
+            "status": "disponivel",
+            "temperatura": 2
+        },
+        {
+            "id": 4,
+            "tipo_sanguineo": "B-",
+            "quantidade": 1,
+            "volume_ml": 450,
+            "volume_total_ml": 450,
+            "local_armazenamento": "Bom Jesus",
+            "status": "disponivel",
+            "temperatura": 3
+        },
+        {
+            "id": 5,
+            "tipo_sanguineo": "AB+",
+            "quantidade": 3,
+            "volume_ml": 450,
+            "volume_total_ml": 1350,
+            "local_armazenamento": "Hospital Geral Unimed",
+            "status": "disponivel",
+            "temperatura": 2
+        },
+        {
+            "id": 6,
+            "tipo_sanguineo": "AB-",
+            "quantidade": 0,
+            "volume_ml": 450,
+            "volume_total_ml": 0,
+            "local_armazenamento": "Bom Jesus",
+            "status": "indisponivel",
+            "temperatura": 3
+        },
+        {
+            "id": 7,
+            "tipo_sanguineo": "O+",
+            "quantidade": 10,
+            "volume_ml": 450,
+            "volume_total_ml": 4500,
+            "local_armazenamento": "Hospital Geral Unimed",
+            "status": "disponivel",
+            "temperatura": 2
+        },
+        {
+            "id": 8,
+            "tipo_sanguineo": "O-",
+            "quantidade": 2,
+            "volume_ml": 450,
+            "volume_total_ml": 900,
+            "local_armazenamento": "Bom Jesus",
+            "status": "disponivel",
+            "temperatura": 3
+        }
+    ]
+}

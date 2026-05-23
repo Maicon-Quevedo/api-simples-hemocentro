@@ -1,0 +1,81 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Maicon",
+            "email": "quevedomaicon8@gmail.com",
+            "senha": "maiconbonito",
+            "cpf": "12345678910",
+            "telefone": "45998259825",
+            "data_nascimento": "01-01-2007",
+            "cidade": "Toledo",
+            "tipo_sanguineo": "O+"
+        },
+        {
+            "id": 2,
+            "nome": "Kainan",
+            "email": "kaim@email.com",
+            "senha": "kaim02",
+            "cpf": "91762289911",
+            "telefone": "45999014255",
+            "data_nascimento": "01-01-2004",
+            "cidade": "Toledo",
+            "tipo_sanguineo": "O+"
+        },
+        {
+            "id": 3,
+            "nome": "Adrian",
+            "email": "adrian@gmail.com",
+            "senha": "terraroxa",
+            "cpf": "31760938963",
+            "telefone": "44999430542",
+            "data_nascimento": "21-03-2007",
+            "cidade": "Terra roxa",
+            "tipo_sanguineo": "AB-"
+        },
+        {
+            "id": 4,
+            "nome": "Vinicius",
+            "email": "vn03@hotmail.com",
+            "senha": "vn010203",
+            "cpf": "24901048961",
+            "telefone": "44999430542",
+            "data_nascimento": "31-12-2003",
+            "cidade": "Toledo",
+            "tipo_sanguineo": "A-"
+        },
+        {
+            "id": 5,
+            "nome": "Igor Cauan",
+            "email": "igorlinx@gmail.com",
+            "senha": "jotinha1",
+            "cpf": "75587111938",
+            "telefone": "67984227539",
+            "data_nascimento": "31-01-2007",
+            "cidade": "Jotaesse",
+            "tipo_sanguineo": "O+"
+        },
+        {
+            "id": 6,
+            "nome": "Diego",
+            "email": "krausediego@gmail.com",
+            "senha": "futurodonocx",
+            "cpf": "50665212917",
+            "telefone": "45998102839",
+            "data_nascimento": "22-02-1997",
+            "cidade": "Toledo",
+            "tipo_sanguineo": "O-"
+        },
+        {
+            "id": 7,
+            "nome": "Marianna",
+            "email": "marianamarumo@gmail.com",
+            "senha": "namoradadomaicon",
+            "cpf": "99999999999",
+            "telefone": "45999209920",
+            "data_nascimento": "01-01-2008",
+            "cidade": "Toledo",
+            "tipo_sanguineo": "A+"
+        }
+    ]
+}
