@@ -232,4 +232,16 @@ def buscar_doador_tiposangue(tiposangue):
         })
     return jsonify(resposta), 200
 
+@app.delete('/doadores/id/<id>')
+def deletar_doador(id):
+    doadores = carregar('doadores.json')
+    id = int(id)
+    
+    for doador in doadores["doadores"]:
+        if doador.get('id') == id:
+            doadores["doadores"].remove(doador)
+            salvar('doadores.json', doadores)
+            return jsonify({"mensagem": "Doador deletado com sucesso!"}), 200
+        return jsonify({"mensagem": "Doador não encontrado"}), 404  
+
 app.run(debug=True)
